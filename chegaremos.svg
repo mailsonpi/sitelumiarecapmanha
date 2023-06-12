@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_7-3);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_7-12);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_7-5);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_7-14);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_7-6);
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_7-8);
+      }
+
+      .cls-7 {
+        fill: url(#Gradiente_sem_nome_7-15);
+      }
+
+      .cls-8 {
+        fill: url(#Gradiente_sem_nome_7-7);
+      }
+
+      .cls-9 {
+        fill: url(#Gradiente_sem_nome_7-4);
+      }
+
+      .cls-10 {
+        fill: url(#Gradiente_sem_nome_7);
+      }
+
+      .cls-11 {
+        fill: url(#Gradiente_sem_nome_7-10);
+      }
+
+      .cls-12 {
+        fill: url(#Gradiente_sem_nome_7-9);
+      }
+
+      .cls-13 {
+        fill: url(#Gradiente_sem_nome_16);
+      }
+
+      .cls-14 {
+        fill: url(#Gradiente_sem_nome_7-11);
+      }
+
+      .cls-15 {
+        fill: url(#Gradiente_sem_nome_7-13);
+      }
+
+      .cls-16 {
+        fill: url(#Gradiente_sem_nome_7-2);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" x1="48.33" y1="250.79" x2="167.89" y2="294.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff3dc8"/>
+      <stop offset="1" stop-color="#ffc602"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_7-2" data-name="Gradiente sem nome 7" x1="133.89" y1="210.8" x2="57" y2="296.13" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-3" data-name="Gradiente sem nome 7" x1="344.3" y1="277.03" x2="236.75" y2="248.14" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-4" data-name="Gradiente sem nome 7" x1="328.89" y1="195.2" x2="277.33" y2="307.65" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-5" data-name="Gradiente sem nome 7" x1="56.64" y1="183.81" x2="191.11" y2="276.15" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-6" data-name="Gradiente sem nome 7" x1="339.11" y1="190.83" x2="41.33" y2="270.39" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-7" data-name="Gradiente sem nome 7" x1="-19.64" y1="123.65" x2="376.36" y2="208.99" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-8" data-name="Gradiente sem nome 7" x1="60.96" y1="121.7" x2="138.96" y2="149.92" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-9" data-name="Gradiente sem nome 7" x1="146.41" y1="133.89" x2="155.3" y2="192.12" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-10" data-name="Gradiente sem nome 7" x1="182.41" y1="128.4" x2="191.29" y2="186.62" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_16" data-name="Gradiente sem nome 16" x1="141.14" y1="117.93" x2="224.48" y2="157.71" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff3dc8"/>
+      <stop offset=".25" stop-color="#ff6889"/>
+      <stop offset=".5" stop-color="#ff904f"/>
+      <stop offset=".73" stop-color="#ffad25"/>
+      <stop offset=".9" stop-color="#ffbf0b"/>
+      <stop offset="1" stop-color="#ffc602"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_7-11" data-name="Gradiente sem nome 7" x1="-12.8" y1="91.91" x2="383.2" y2="177.24" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-12" data-name="Gradiente sem nome 7" x1="116.38" y1="121.4" x2="178.15" y2="152.73" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-13" data-name="Gradiente sem nome 7" x1="39.44" y1="143.18" x2="67.66" y2="162.56" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-14" data-name="Gradiente sem nome 7" x1="265.94" y1="208.45" x2="25.35" y2="169.34" xlink:href="#Gradiente_sem_nome_7"/>
+    <linearGradient id="Gradiente_sem_nome_7-15" data-name="Gradiente sem nome 7" x1="267.7" y1="197.67" x2="27.1" y2="158.56" xlink:href="#Gradiente_sem_nome_7"/>
+  </defs>
+  <circle class="cls-10" cx="85.62" cy="264.37" r="30.22"/>
+  <circle class="cls-16" cx="85.62" cy="264.37" r="19.64"/>
+  <circle class="cls-1" cx="297.18" cy="264.37" r="30.22"/>
+  <circle class="cls-9" cx="297.18" cy="264.37" r="19.64"/>
+  <path class="cls-3" d="m92.29,161.26s-10.96-1.04-13.93,1.63c-2.18,1.96-30.22,33.33-30.22,33.33,0,0-4,4.74-4,15.26v18.52s-10.52,4-6.52,12.59c4,8.59,6.07,10.81,6.07,10.81,0,0-4.59,11.41,5.48,10.22,1.23-.15.5-21.23,17.78-31.85,11.66-7.17,26.83-7.54,38.96,0,11.76,7.3,18.47,20.66,17.33,34.52h74.63c-20.61-32.95-39.11-67.42-46.79-105.04h-58.8Z"/>
+  <path class="cls-5" d="m347.55,219.63c-14.68-6.23-32.56-12.43-53.33-16.89-12.55-2.7-24.29-4.36-34.96-5.33-13.53-10.47-27.06-20.94-40.59-31.41-.72-.96-2.46-2.32-5.78-3.56-3.84-1.43-7.33-1.51-8.44-1.19h-53.35c7.67,37.62,26.17,72.08,46.79,105.04h62.86c-.24-2.21-1.59-17,9.48-28.89,11.95-12.83,28.31-11.48,30.52-11.26,14.7,1.47,26.71,11.7,31.41,24.3,3.26,8.76,2.24,16.66,1.48,20.44,2.81.16,7.72,0,12.15-2.96,8.63-5.77,8.8-17.76,8.89-23.7.17-11.31-4.25-20.01-7.11-24.59Z"/>
+  <path class="cls-8" d="m47.69,140c-3.42,0-6.22,2.8-6.22,6.22s2.8,6.22,6.22,6.22h65.47c3.34-4.13,6.65-8.29,9.98-12.44H47.69Z"/>
+  <path class="cls-6" d="m123.15,140c-3.33,4.15-6.64,8.32-9.98,12.44h23.64c2.54-4.19,5.02-8.32,7.49-12.44h-21.15Z"/>
+  <path class="cls-12" d="m144.3,140c-2.48,4.13-4.95,8.25-7.49,12.44h16.01c2.53-4.07,4.88-8.2,6.97-12.44h-15.48Z"/>
+  <path class="cls-11" d="m177.83,140c-1.38,4.27-3.02,8.41-4.95,12.44h18.6c2.21-4.04,4.12-8.22,5.9-12.44h-19.55Z"/>
+  <path class="cls-13" d="m197.38,140c-1.79,4.23-3.69,8.41-5.9,12.44h12.75c1.9-4.07,3.6-8.23,5.14-12.44h-11.99Z"/>
+  <path class="cls-14" d="m273.62,140h-64.25c-1.54,4.22-3.25,8.37-5.14,12.44h69.39c3.42,0,6.22-2.8,6.22-6.22s-2.8-6.22-6.22-6.22Z"/>
+  <path class="cls-2" d="m159.78,140c-2.09,4.24-4.44,8.37-6.97,12.44h20.06c1.94-4.03,3.58-8.18,4.95-12.44h-18.05Z"/>
+  <polygon class="cls-15" points="60 167.48 54.81 164.52 49.62 167.48 49.62 140 60 140 60 167.48"/>
+  <path class="cls-4" d="m149.62,172.13c0-2.65-2.15-4.79-4.79-4.79h-44.83s-3.27-.81-7.71,4.15-16.22,18.96-16.22,18.96c0,0-6.67,9.11,4.22,9.11h64.54c2.65,0,4.79-2.15,4.79-4.79v-22.64Z"/>
+  <path class="cls-7" d="m163.62,172.3v22.46c0,2.65,2.15,4.79,4.79,4.79h66.2c2.09,0,3.1-2.57,1.55-3.99l-24.9-22.89c-2.35-2.16-5.39-3.43-8.59-3.58l-34.04-1.59c-2.73-.13-5.02,2.05-5.02,4.79Z"/>
+</svg>
